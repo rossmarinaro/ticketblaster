@@ -1,0 +1,804 @@
+{"frames": [
+
+{
+	"filename": "Concert_Girl_worried_01",
+	"frame": {"x":0,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_02",
+	"frame": {"x":427,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_03",
+	"frame": {"x":854,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_04",
+	"frame": {"x":1281,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_05",
+	"frame": {"x":1708,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_06",
+	"frame": {"x":2135,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_07",
+	"frame": {"x":2562,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_08",
+	"frame": {"x":2989,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_09",
+	"frame": {"x":3416,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_10",
+	"frame": {"x":3843,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_11",
+	"frame": {"x":4270,"y":0,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_12",
+	"frame": {"x":0,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_13",
+	"frame": {"x":427,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_14",
+	"frame": {"x":854,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_15",
+	"frame": {"x":1281,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_16",
+	"frame": {"x":1708,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_17",
+	"frame": {"x":2135,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_18",
+	"frame": {"x":2562,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_19",
+	"frame": {"x":2989,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_20",
+	"frame": {"x":3416,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_21",
+	"frame": {"x":3843,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_22",
+	"frame": {"x":4270,"y":485,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_23",
+	"frame": {"x":0,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_24",
+	"frame": {"x":427,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_25",
+	"frame": {"x":854,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_26",
+	"frame": {"x":1281,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_27",
+	"frame": {"x":1708,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_28",
+	"frame": {"x":2135,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_29",
+	"frame": {"x":2562,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_30",
+	"frame": {"x":2989,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_31",
+	"frame": {"x":3416,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_32",
+	"frame": {"x":3843,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_33",
+	"frame": {"x":4270,"y":970,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_34",
+	"frame": {"x":0,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_35",
+	"frame": {"x":427,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_36",
+	"frame": {"x":854,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_37",
+	"frame": {"x":1281,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_38",
+	"frame": {"x":1708,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_39",
+	"frame": {"x":2135,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_40",
+	"frame": {"x":2562,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_41",
+	"frame": {"x":2989,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_42",
+	"frame": {"x":3416,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_43",
+	"frame": {"x":3843,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_44",
+	"frame": {"x":4270,"y":1455,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_45",
+	"frame": {"x":0,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_46",
+	"frame": {"x":427,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_47",
+	"frame": {"x":854,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_48",
+	"frame": {"x":1281,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_49",
+	"frame": {"x":1708,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_50",
+	"frame": {"x":2135,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_51",
+	"frame": {"x":2562,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_52",
+	"frame": {"x":2989,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_53",
+	"frame": {"x":3416,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_54",
+	"frame": {"x":3843,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_55",
+	"frame": {"x":4270,"y":1940,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_56",
+	"frame": {"x":0,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_57",
+	"frame": {"x":427,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_58",
+	"frame": {"x":854,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_59",
+	"frame": {"x":1281,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_60",
+	"frame": {"x":1708,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_61",
+	"frame": {"x":2135,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_62",
+	"frame": {"x":2562,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_63",
+	"frame": {"x":2989,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_64",
+	"frame": {"x":3416,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_65",
+	"frame": {"x":3843,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_66",
+	"frame": {"x":4270,"y":2425,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_67",
+	"frame": {"x":0,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_68",
+	"frame": {"x":427,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_69",
+	"frame": {"x":854,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_70",
+	"frame": {"x":1281,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_71",
+	"frame": {"x":1708,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_72",
+	"frame": {"x":2135,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_73",
+	"frame": {"x":2562,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_74",
+	"frame": {"x":2989,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_75",
+	"frame": {"x":3416,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_76",
+	"frame": {"x":3843,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_77",
+	"frame": {"x":4270,"y":2910,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_78",
+	"frame": {"x":0,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_79",
+	"frame": {"x":427,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_80",
+	"frame": {"x":854,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_81",
+	"frame": {"x":1281,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_82",
+	"frame": {"x":1708,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_83",
+	"frame": {"x":2135,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_84",
+	"frame": {"x":2562,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_85",
+	"frame": {"x":2989,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_86",
+	"frame": {"x":3416,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_87",
+	"frame": {"x":3843,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_88",
+	"frame": {"x":4270,"y":3395,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_89",
+	"frame": {"x":0,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_90",
+	"frame": {"x":427,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_91",
+	"frame": {"x":854,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_92",
+	"frame": {"x":1281,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_93",
+	"frame": {"x":1708,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_94",
+	"frame": {"x":2135,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_95",
+	"frame": {"x":2562,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_96",
+	"frame": {"x":2989,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_97",
+	"frame": {"x":3416,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_98",
+	"frame": {"x":3843,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+},
+{
+	"filename": "Concert_Girl_worried_99",
+	"frame": {"x":4270,"y":3880,"w":427,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":485},
+	"sourceSize": {"w":427,"h":485}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "girl_worried.png",
+	"format": "RGBA8888",
+	"size": {"w":4697,"h":4365},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fd252afb3a50bb380f84a1d72bba7d86:c3bbb91895d001108f00b951d1b0d5b6:fb9e42e50123df3a5a4785859d5726a3$"
+}
+}

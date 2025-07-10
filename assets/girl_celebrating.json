@@ -1,0 +1,764 @@
+{"frames": [
+
+{
+	"filename": "Concert_Girl_celebrating_01",
+	"frame": {"x":0,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_02",
+	"frame": {"x":540,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_03",
+	"frame": {"x":1080,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_04",
+	"frame": {"x":1620,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_05",
+	"frame": {"x":2160,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_06",
+	"frame": {"x":2700,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_07",
+	"frame": {"x":3240,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_08",
+	"frame": {"x":3780,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_09",
+	"frame": {"x":4320,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_10",
+	"frame": {"x":4860,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_11",
+	"frame": {"x":5400,"y":0,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_12",
+	"frame": {"x":0,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_13",
+	"frame": {"x":540,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_14",
+	"frame": {"x":1080,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_15",
+	"frame": {"x":1620,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_16",
+	"frame": {"x":2160,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_17",
+	"frame": {"x":2700,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_18",
+	"frame": {"x":3240,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_19",
+	"frame": {"x":3780,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_20",
+	"frame": {"x":4320,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_21",
+	"frame": {"x":4860,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_22",
+	"frame": {"x":5400,"y":634,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_23",
+	"frame": {"x":0,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_24",
+	"frame": {"x":540,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_25",
+	"frame": {"x":1080,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_26",
+	"frame": {"x":1620,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_27",
+	"frame": {"x":2160,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_28",
+	"frame": {"x":2700,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_29",
+	"frame": {"x":3240,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_30",
+	"frame": {"x":3780,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_31",
+	"frame": {"x":4320,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_32",
+	"frame": {"x":4860,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_33",
+	"frame": {"x":5400,"y":1268,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_34",
+	"frame": {"x":0,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_35",
+	"frame": {"x":540,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_36",
+	"frame": {"x":1080,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_37",
+	"frame": {"x":1620,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_38",
+	"frame": {"x":2160,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_39",
+	"frame": {"x":2700,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_40",
+	"frame": {"x":3240,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_41",
+	"frame": {"x":3780,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_42",
+	"frame": {"x":4320,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_43",
+	"frame": {"x":4860,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_44",
+	"frame": {"x":5400,"y":1902,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_45",
+	"frame": {"x":0,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_46",
+	"frame": {"x":540,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_47",
+	"frame": {"x":1080,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_48",
+	"frame": {"x":1620,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_49",
+	"frame": {"x":2160,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_50",
+	"frame": {"x":2700,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_51",
+	"frame": {"x":3240,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_52",
+	"frame": {"x":3780,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_53",
+	"frame": {"x":4320,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_54",
+	"frame": {"x":4860,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_55",
+	"frame": {"x":5400,"y":2536,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_56",
+	"frame": {"x":0,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_57",
+	"frame": {"x":540,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_58",
+	"frame": {"x":1080,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_59",
+	"frame": {"x":1620,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_60",
+	"frame": {"x":2160,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_61",
+	"frame": {"x":2700,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_62",
+	"frame": {"x":3240,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_63",
+	"frame": {"x":3780,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_64",
+	"frame": {"x":4320,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_65",
+	"frame": {"x":4860,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_66",
+	"frame": {"x":5400,"y":3170,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_67",
+	"frame": {"x":0,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_68",
+	"frame": {"x":540,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_69",
+	"frame": {"x":1080,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_70",
+	"frame": {"x":1620,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_71",
+	"frame": {"x":2160,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_72",
+	"frame": {"x":2700,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_73",
+	"frame": {"x":3240,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_74",
+	"frame": {"x":3780,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_75",
+	"frame": {"x":4320,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_76",
+	"frame": {"x":4860,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_77",
+	"frame": {"x":5400,"y":3804,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_78",
+	"frame": {"x":0,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_79",
+	"frame": {"x":540,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_80",
+	"frame": {"x":1080,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_81",
+	"frame": {"x":1620,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_82",
+	"frame": {"x":2160,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_83",
+	"frame": {"x":2700,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_84",
+	"frame": {"x":3240,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_85",
+	"frame": {"x":3780,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_86",
+	"frame": {"x":4320,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_87",
+	"frame": {"x":4860,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_88",
+	"frame": {"x":5400,"y":4438,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_89",
+	"frame": {"x":0,"y":5072,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_90",
+	"frame": {"x":540,"y":5072,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_91",
+	"frame": {"x":1080,"y":5072,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_92",
+	"frame": {"x":1620,"y":5072,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_93",
+	"frame": {"x":2160,"y":5072,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+},
+{
+	"filename": "Concert_Girl_celebrating_94",
+	"frame": {"x":2700,"y":5072,"w":540,"h":634},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":634},
+	"sourceSize": {"w":540,"h":634}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "girl_celebrating.png",
+	"format": "RGBA8888",
+	"size": {"w":5940,"h":5706},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4d1edf4d6c49dd6317eadc898e9b46b6:dfc2ed8d97394c514db28e09b21e6bcc:1020e5a00252dbc4c4a957c07c2be561$"
+}
+}

@@ -1,0 +1,28 @@
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #000000;
+}
+
+
+/**********************************************  MEDIA QUERIES */
+
+
+@media screen and (orientation: portrait)
+{
+
+}
+@media screen and (orientation: landscape)
+{
+
+}
+@media screen and (min-width: 1030px) /* desktop only */
+{
+
+	#game > canvas{
+		background-color: #000000;
+		box-shadow: 0 0 85px #000000;
+	}
+}
