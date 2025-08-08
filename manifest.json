@@ -1,6 +1,6 @@
 {
-  "short_name": "TFAOSV",
-  "name": "The Funky Adventures Of Swanky Velvet",
+  "short_name": "Ticketblaster",
+  "name": "Ticketblaster by Splunk",
   "icons": [
     {
       "src": "./icons/sv.png",
